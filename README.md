@@ -35,7 +35,7 @@ I’m highly motivated and passionate. I'm eager to gain more knowledge and be i
   
 #### What am I currently doing ...
  
-- 🧑‍🎓 Learning new things!
+- 🎓 Learning new things!
 - 👩🏻‍💻 Implementing algorithms
 - ☕ Drinking coffee :)
   
