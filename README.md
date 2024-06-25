@@ -15,6 +15,8 @@ I’m highly motivated and passionate. I'm eager to gain more knowledge and be i
 ![AppVeyor](https://img.shields.io/:React-121212.svg?style=flat&logo=React&logoColor=61DAFB)
 ![AppVeyor](https://img.shields.io/:Redux-F7DF1E.svg?style=flat&logo=Redux&logoColor=3178C6)
 ![AppVeyor](https://img.shields.io/:Next.js-000000.svg?style=flat&logo=Next.js&logoColor=ffffff)
+![AppVeyor](https://img.shields.io/:PHP-000000.svg?style=flat&logo=php&logoColor=ffffff)
+![AppVeyor](https://img.shields.io/:laravel-000000.svg?style=flat&logo=laravel&logoColor=ffffff)
 ![AppVeyor](https://img.shields.io/:Sass-CC6699.svg?style=flat&logo=Sass&logoColor=ffffff)
 ![AppVeyor](https://img.shields.io/:Tailwind-06B6D4.svg?style=flat&logo=TailwindCSS&logoColor=ffffff)
 ![AppVeyor](https://img.shields.io/:Bootstrap-7952B3.svg?style=flat&logo=Bootstrap&logoColor=ffffff)
